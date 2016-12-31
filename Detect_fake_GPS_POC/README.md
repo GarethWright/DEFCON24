@@ -1,3 +1,4 @@
+<pre>
 Principle:
 
 Validate GPS subframe data
@@ -14,3 +15,4 @@ Compile:
 *Install wiringPi library (git://git.drogon.net/wiringPi)
 
 *g++ -lwiringPi -lwiringPiDev -lpthread -lm dtgps.cpp -o dtgps
+</pre>
